@@ -14,12 +14,12 @@ import imgproc
 #refine_net = load_refinenet_model(cuda=False)
 
 #sess = rt.InferenceSession("model_640_480.onnx") #resize to 320x240 - bad results
-sess = rt.InferenceSession("onnx/craft-bills.onnx") #1000x960 resize to 512x384
+sess = rt.InferenceSession("onnx/craft-detect.onnx") #1000x960 resize to 512x384
 input_name = sess.get_inputs()[0].name
 
 output_dir = 'outputs/'
 
-img = cv2.imread('data/bill.jpg')
+img = cv2.imread('data/textbook.jpg')
 #img=imgproc.loadImage('frame1.jpg')
 print(img.shape) #(1944, 2592, 3)
 
