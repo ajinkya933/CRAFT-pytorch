@@ -27,7 +27,7 @@ net = CRAFT()     # initialize
 
 
 net.load_state_dict(copyStateDict(torch.load('./weights/craft_mlt_25k.pth', map_location='cpu')))
-net = net.cuda()
+#net = net.cuda()
 net.eval()
 # load data
 image = imgproc.loadImage('./data/bill.jpg')
@@ -55,7 +55,7 @@ img_resized = cv2.resize(img_resized, (target_width, target_height), interpolati
 x = imgproc.normalizeMeanVariance(img_resized)
 x = torch.from_numpy(x).permute(2, 0, 1)    # [h, w, c] to [c, h, w]
 x = Variable(x.unsqueeze(0))                # [c, h, w] to [b, c, h, w]
-x = x.cuda()
+# x = x.cuda()
 
 # Verify shape before export
 print(f"Export tensor shape: {x.shape}")  # Should print [1, 3, 960, 1280]
