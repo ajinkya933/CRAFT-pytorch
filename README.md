@@ -1,6 +1,18 @@
 # CRAFT Text Detection ONNX Export & Inference 🚀
 
-This repository contains code to export CRAFT (Character Region Awareness For Text Detection) model to ONNX format and run inference. Join community on slack : https://join.slack.com/t/ocr-community/shared_invite/zt-2x1vfdxqp-Ck~KjdWftyxS6gOU4GvnFA
+This repository contains code to export CRAFT (Character Region Awareness For Text Detection) model to ONNX format and run inference. 
+Join our Slack community to:
+- Get help and support 🤝
+- Share your implementations 🚀
+- Discuss ideas and improvements 💡
+- Connect with other developers 👥
+
+[![Join our Slack](https://join.slack.com/t/ocr-community/shared_invite/zt-2x1vfdxqp-Ck~KjdWftyxS6gOU4GvnFA) email: ajinkyabobade93@gmail.com if you are unable to access this link 
+
+Feel free to ask questions and share your experiences! 🎉
+
+---
+
 ## Prerequisites 📋
 - Docker 🐳
 - High-resolution text images 🖼️
