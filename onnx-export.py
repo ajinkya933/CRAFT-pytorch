@@ -30,7 +30,7 @@ net.load_state_dict(copyStateDict(torch.load('./weights/craft_mlt_25k.pth', map_
 #net = net.cuda()
 net.eval()
 # load data
-image = imgproc.loadImage('./data/bill.jpg')
+image = imgproc.loadImage('./data/cookbook.jpg')
 
 # Calculate dimensions that maintain aspect ratio
 original_height, original_width = 4096, 3072
@@ -63,7 +63,7 @@ print(f"Export tensor shape: {x.shape}")  # Should print [1, 3, 960, 1280]
 # trace export
 torch.onnx.export(net,
                   x,
-                  'onnx/craft-bills.onnx',
+                  'onnx/craft-detect.onnx',
                   input_names=['input'],
                   output_names=['output'],
                   export_params=True,
