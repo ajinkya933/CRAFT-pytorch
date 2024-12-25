@@ -7,10 +7,12 @@ Join our Slack community to:
 - Discuss ideas and improvements 💡
 - Connect with other developers 👥
 
-[![Join our Slack](https://join.slack.com/t/ocr-community/shared_invite/zt-2x1vfdxqp-Ck~KjdWftyxS6gOU4GvnFA) email: ajinkyabobade93@gmail.com if you are unable to access this link 
+
+[![Join our Slack](https://img.shields.io/badge/Join%20our%20Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/ocr-community/shared_invite/zt-2x1vfdxqp-Ck~KjdWftyxS6gOU4GvnFA)
+
 
 Feel free to ask questions and share your experiences! 🎉
-
+email: ajinkyabobade93@gmail.com if you are unable to access slack link 
 ---
 
 ## Prerequisites 📋
