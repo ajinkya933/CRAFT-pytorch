@@ -36,7 +36,7 @@ Feel free to ask questions and share your experiences! 🎉
 
 1. **Add Images and download pth file** 📸
    - Place your high-resolution text images in the `data` directory
-   - Download pytorch model from ![here](https://drive.google.com/file/d/1yN6_XLZVuKGL-3-w9MuqPqiM3QfAPVGV/view?usp=sharing), and save it in `weights` folder 
+   - Download pytorch model from [here](https://drive.google.com/file/d/1yN6_XLZVuKGL-3-w9MuqPqiM3QfAPVGV/view?usp=sharing), and save it in `weights` folder 
 
 2. **Build Docker Image** 🔨
    ```bash
