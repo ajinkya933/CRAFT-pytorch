@@ -69,7 +69,7 @@ If you find this tool useful, consider [becoming a sponsor](https://github.com/s
 
 
 ### 🌟 Sponsor Benefits
-- 🏢 Priority support for integrating TextClear into your company's infrastructure
+- 🏢 Priority support for integrating this tool into your company's infrastructure
 - 🛠️ Direct assistance with project-related issues and customizations
 - 💡 Technical consultation for your specific use cases
 - 🚀 Early access to new features and improvements
