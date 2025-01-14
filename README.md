@@ -1,18 +1,9 @@
 # CRAFT Text Detection ONNX Export & Inference 🚀
 
 This repository contains code to export CRAFT (Character Region Awareness For Text Detection) model to ONNX format and run inference. 
-Join our Slack community to:
-- Get help and support 🤝
-- Share your implementations 🚀
-- Discuss ideas and improvements 💡
-- Connect with other developers 👥
 
-
-[![Join our Slack](https://img.shields.io/badge/Join%20our%20Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/ocr-community/shared_invite/zt-2x1vfdxqp-Ck~KjdWftyxS6gOU4GvnFA)
-
-email: ajinkyabobade93@gmail.com if you are unable to access slack link 
-
-Feel free to ask questions and share your experiences! 🎉
+## 💎 Support 
+If you find this tool useful, consider [becoming a sponsor](https://github.com/sponsors/ajinkya933) for $1/month and get priority support!
 
 ---
 
@@ -73,8 +64,19 @@ Feel free to ask questions and share your experiences! 🎉
 - The model works best with clear, well-lit document images
 - Check `outputs` directory for detection results
 
-# Open-source contributions:
-I’m looking to raise 10 sponsors goal on Github. If you are benifitted from my contributions. Would you consider making a donation of $ 1 per month, to help sponsor my open source contributions on Github. Github sponsors link https://github.com/sponsors/ajinkya933
+## 💎 Sponsor $1 per month
+👉 [My GitHub Sponsors link](https://github.com/sponsors/ajinkya933)
+
+
+### 🌟 Sponsor Benefits
+- 🏢 Priority support for integrating TextClear into your company's infrastructure
+- 🛠️ Direct assistance with project-related issues and customizations
+- 💡 Technical consultation for your specific use cases
+- 🚀 Early access to new features and improvements
+- ⭐ Recognition in our sponsors list
+
+### Why Sponsor?
+Your sponsorship helps maintain and improve TextClear, ensuring it remains a robust and reliable tool for the community. Every contribution, no matter how small, makes a difference!
 
 
 
