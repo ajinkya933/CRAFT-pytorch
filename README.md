@@ -76,7 +76,7 @@ If you find this tool useful, consider [becoming a sponsor](https://github.com/s
 - ⭐ Recognition in our sponsors list
 
 ### Why Sponsor?
-Your sponsorship helps maintain and improve TextClear, ensuring it remains a robust and reliable tool for the community. Every contribution, no matter how small, makes a difference!
+Your sponsorship helps me maintain the code, ensuring it remains a robust and reliable tool for the community. Every contribution, no matter how small, makes a difference!
 
 
 
